@@ -3,6 +3,7 @@ import { guide, plan } from './sidebars'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/ink-nest-admin-docs/",
   title: "Ink Admin docs",
   description: "墨迹小窝后台管理系统",
   themeConfig: {
