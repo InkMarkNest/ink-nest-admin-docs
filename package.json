@@ -1,4 +1,5 @@
 {
+  "name": "ink-nest-admin-docs",
   "devDependencies": {
     "vitepress": "1.0.0-beta.1"
   },

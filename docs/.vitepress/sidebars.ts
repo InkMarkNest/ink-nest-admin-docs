@@ -10,7 +10,13 @@ const guide = {
     {
       text: '功能',
       items: [
-        { text: 'Git规范', link: '/guide/feature/git-commit' },
+        { text: 'Git提交检查', link: '/guide/feature/git-commit' },
+        { text: '布局组件', link: '/guide/feature/layout-component' },
+        { text: '主题皮肤', link: '/guide/feature/theme' },
+        { text: '请求设置', link: '/guide/feature/fetch' },
+        { text: '路由设置', link: '/guide/feature/route' },
+        { text: 'mockAPI', link: '/guide/feature/mock' },
+        { text: '国际化', link: '/guide/feature/i18n' },
       ]
     }
   ]
