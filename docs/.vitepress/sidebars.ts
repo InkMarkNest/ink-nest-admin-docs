@@ -4,19 +4,22 @@ const guide = {
       text: '开始',
       items: [
         { text: '介绍', link: '/guide/start/introduction' },
-        { text: '快速开始', link: '/guide/start/quick-start' }
+        { text: '如何上手', link: '/guide/start/quick-start' },
       ]
     },
     {
-      text: '功能',
+      text: '入门',
       items: [
-        { text: 'Git提交检查', link: '/guide/feature/git-commit' },
-        { text: '布局组件', link: '/guide/feature/layout-component' },
-        { text: '主题皮肤', link: '/guide/feature/theme' },
-        { text: '请求设置', link: '/guide/feature/fetch' },
-        { text: '路由设置', link: '/guide/feature/route' },
-        { text: 'mockAPI', link: '/guide/feature/mock' },
-        { text: '国际化', link: '/guide/feature/i18n' },
+        { text: '环境准备', link: '/guide/introduction/dev-environment' },
+        { text: '开发链路', link: '/guide/introduction/dev-process' },
+        { text: '样式编写', link: '/guide/introduction/dev-style' },
+        { text: '路由配置', link: '/guide/introduction/dev-route' },
+        { text: '全局状态', link: '/guide/introduction/dev-glob-state' },
+        { text: 'Page开发', link: '/guide/introduction/dev-page' },
+        { text: '组件开发', link: '/guide/introduction/dev-component' },
+        { text: 'Svg图标使用', link: '/guide/introduction/dev-use-svg' },
+        { text: 'mock接口', link: '/guide/introduction/dev-mock' },
+        { text: '请求API', link: '/guide/introduction/dev-axios' },
       ]
     }
   ]
